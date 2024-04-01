@@ -61,6 +61,7 @@ fun PaymentScreen(
     var isMenu by remember {
         mutableStateOf(false)
     }
+    
 
     LaunchedEffect(cardModel) {
         viewModel.setCard(cardModel)
