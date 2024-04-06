@@ -1,0 +1,9 @@
+<img width="449" alt="Screenshot 2024-04-06 at 3 50 36 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/dcad4982-b3fd-42ca-b9e1-1eb24fd444e3">
+<img width="449" alt="Screenshot 2024-04-06 at 3 53 17 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/e4a07e84-a90d-4788-ac1d-158a229fd416">
+<img width="449" alt="Screenshot 2024-04-06 at 3 51 42 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/78fc40a4-4b7d-4bed-987f-5c69a9a3f585">
+<img width="449" alt="Screenshot 2024-04-06 at 3 53 09 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/23c9cd74-adc7-4332-a1be-7bc518a0eccf">
+<img width="449" alt="Screenshot 2024-04-06 at 3 52 50 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/3ced7788-e5d0-4a20-a1d0-02b9d11fb15c">
+<img width="449" alt="Screenshot 2024-04-06 at 3 52 12 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/8dd25332-6d3c-4e1e-8598-428c77b1c293">
+<img width="449" alt="Screenshot 2024-04-06 at 3 53 23 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/132044f3-9812-4e4e-9767-8af237812b5c">
+<img width="449" alt="Screenshot 2024-04-06 at 3 53 30 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/4b00c20d-7944-4c88-b737-b9f77be0a218">
+<img width="449" alt="Screenshot 2024-04-06 at 3 56 52 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/5a467748-8872-4089-8d02-aa17a1e2a4f2">
