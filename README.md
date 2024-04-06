@@ -8,6 +8,13 @@
 <img width="449" alt="Screenshot 2024-04-06 at 3 53 30 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/4b00c20d-7944-4c88-b737-b9f77be0a218">
 <img width="449" alt="Screenshot 2024-04-06 at 3 56 52 PM" src="https://github.com/JonibekXolmonov/Gbank/assets/86782180/5a467748-8872-4089-8d02-aa17a1e2a4f2">
 
+## Features ✨
+- [x] Free to use, login, sign up required with fake data.
+- [x] Card management locally
+- [x] Statisttics🚀
+- [x] Pay and fill card 📄
+- [x] Single activity design.  
+    
 ## Tech Stack 🛠
 
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
