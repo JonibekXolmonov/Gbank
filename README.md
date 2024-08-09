@@ -11,7 +11,7 @@
 ## Features ✨
 - [x] Free to use, login, sign up required with fake data.
 - [x] Card management locally
-- [x] Statisttics🚀
+- [x] Statistics🚀
 - [x] Pay and fill card 📄
 - [x] Single activity design.  
     
